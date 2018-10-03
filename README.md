@@ -34,3 +34,4 @@
     - 절대 하기 싫음
   - 농부
     - 늙으면 해볼생각 
+  ![README_IMG](README_IMG.jpg)
